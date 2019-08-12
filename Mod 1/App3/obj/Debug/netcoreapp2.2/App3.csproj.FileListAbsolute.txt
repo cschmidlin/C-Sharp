@@ -1,0 +1,11 @@
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 1\App3\bin\Debug\netcoreapp2.2\App3.deps.json
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 1\App3\bin\Debug\netcoreapp2.2\App3.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 1\App3\bin\Debug\netcoreapp2.2\App3.runtimeconfig.dev.json
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 1\App3\bin\Debug\netcoreapp2.2\App3.dll
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 1\App3\bin\Debug\netcoreapp2.2\App3.pdb
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 1\App3\obj\Debug\netcoreapp2.2\App3.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 1\App3\obj\Debug\netcoreapp2.2\App3.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 1\App3\obj\Debug\netcoreapp2.2\App3.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 1\App3\obj\Debug\netcoreapp2.2\App3.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 1\App3\obj\Debug\netcoreapp2.2\App3.dll
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 1\App3\obj\Debug\netcoreapp2.2\App3.pdb
