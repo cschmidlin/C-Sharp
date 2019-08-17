@@ -1,0 +1,11 @@
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 2\VarmintHunt\obj\Debug\netcoreapp2.2\VarmintHunt.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 2\VarmintHunt\obj\Debug\netcoreapp2.2\VarmintHunt.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 2\VarmintHunt\obj\Debug\netcoreapp2.2\VarmintHunt.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 2\VarmintHunt\obj\Debug\netcoreapp2.2\VarmintHunt.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 2\VarmintHunt\bin\Debug\netcoreapp2.2\VarmintHunt.deps.json
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 2\VarmintHunt\bin\Debug\netcoreapp2.2\VarmintHunt.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 2\VarmintHunt\bin\Debug\netcoreapp2.2\VarmintHunt.runtimeconfig.dev.json
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 2\VarmintHunt\bin\Debug\netcoreapp2.2\VarmintHunt.dll
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 2\VarmintHunt\bin\Debug\netcoreapp2.2\VarmintHunt.pdb
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 2\VarmintHunt\obj\Debug\netcoreapp2.2\VarmintHunt.dll
+C:\Users\chris\OneDrive\Desktop\School\Microsoft C#\Mod 2\VarmintHunt\obj\Debug\netcoreapp2.2\VarmintHunt.pdb
