@@ -10,7 +10,11 @@ namespace VarmintHunt {
             set { photos = value; }
         }
         public void takePhoto(){
-            
+            Photos++;
+        }
+
+        public int getPhotos(){
+            return Photos;
         }
     }
 }

@@ -1,6 +1,6 @@
 using System;
 namespace VarmintHunt {
-    class Varmint {
+    class Varmint : ICritter {
         private int hunger;
 
         public Varmint(int value) {
