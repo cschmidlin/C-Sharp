@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\chris\\OneDrive\\Desktop\\School\\Microsoft C#\\Mod 4\\cschmidlin_webapp\\cschmidlin_webapp.csproj",
+  "FilePath": "c:\\Users\\chris\\OneDrive\\Desktop\\School\\Microsoft C#\\Mod 4\\GreetingUI\\GreetingUI.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2958,8 +2958,13 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "cschmidlin_webapp",
+  "RootNamespace": "GreetingUI",
   "Documents": [
+    {
+      "FilePath": "Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
     {
       "FilePath": "Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
@@ -2976,18 +2981,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Home\\About.cshtml",
-      "TargetPath": "Views\\Home\\About.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Home\\Contact.cshtml",
-      "TargetPath": "Views\\Home\\Contact.cshtml",
       "FileKind": "mvc"
     },
     {
